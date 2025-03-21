@@ -1,0 +1,17 @@
+Todas as formas de seletores css e html. PQ? Porque o document.querySelector() usa esses seletores pra pegar os elementos.
+
+Leitura de arquivos (Receber)
+Jeitos de colocar html com javascript (ja vi 2 até agora)
+
+Processamentos assíncronos (promise e etc)
+
+Serialização
+Json e loadFromJson()
+dataset
+
+for in
+
+LocalStorage
+
+DAO
+MVC
